@@ -1,0 +1,32 @@
+.big_box{
+background-color: black;
+height: 700px;
+width: 100%;
+}
+.box{
+	height: 700px;
+	width: 40%;
+	background-color: white;
+	margin-left: 250px;
+}
+.box1{
+	height: 80px;
+	width: 100%;
+	border: 1px solid green;
+}
+.box2{
+height: 200px;
+border: 1px solid green;
+}
+.box3{
+height: 150px;
+border: 1px solid green;	
+}
+.box4{
+height: 150px;
+border: 1px solid green;	
+}
+.box5{
+height: 80px;
+border: 1px solid green;	
+}
