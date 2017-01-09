@@ -1,32 +1,130 @@
+/*div{
+	border: 1px solid transparent;
+}*/
 .big_box{
 background-color: black;
-height: 700px;
+height: 810px;
 width: 100%;
 }
 .box{
-	height: 700px;
-	width: 40%;
-	background-color: white;
+	height: inherit;
+	width: 60%;
 	margin-left: 250px;
+/*	border: 0px solid green;*/
+	background-image: url("../image_spruzers.jpg");
 }
 .box1{
-	height: 80px;
+	height: 100px;
+	width: 100%;
+	/*border: 1px solid green;*/
+	display: flex;
+
+}
+.box11{
+height: inherit;
+	width: 73%;
+	/*border: 1px solid green;*/
+	font-size: 30px;
+	color: white;
+	margin: auto;
+	padding: 30px;
+	
+}
+.box12{
+	height:inherit;
+	width: 27%;
+	/*border: 1px solid green;*/
+	padding: 50px;
+}
+.box2{
+height: 230px;
+	width: 100%;
+	border: 1px solid green;
+	display: flex;	
+}
+.box21{
+	height: inherit;
+	width: 75%;
+/*	border: 1px solid green;*/
+	background-color: white;
+	/*color: white;*/
+	padding: 20px;
+}
+.box22{
+	height: inherit;
+	width: 25%;
+	/*border: 1px solid green;*/
+	background-color: #d1d1e0;
+}
+.box3{
+height: 160px;
+/*border: 1px solid green;*/
+width: 100%;
+display: flex;	
+}
+.box31{
+	height: inherit;
+	width: 75%;
+/*	border: 1px solid green;*/
+	background-color:  #00e6ac;
+}
+.box32{
+	height: inherit;
+	width: 25%;
+/*	border: 1px solid green;*/
+	background-color: #00cc99
+}
+.box4{
+height: 200px;
+/*border: 1px solid green;*/
+display: flex;	
+}
+.box41{
+height: inherit;
+	width: 75%;
+/*	border: 1px solid green;*/	
+	background-color: white;
+}
+.box42{
+	height: inherit;
+	width: 25%;
+/*	border: 1px solid green;*/
+	background-color: #d1d1e0;
+}
+.box5{
+	height: 75px;
+	width: 100%;
+	/*border: 1px solid green;*/
+	padding: 30px;
+	color: white;
+}
+.box6{
+		height: 40px;
+	width: 100%;
+	/*border: 1px solid green;*/
+	background-color: #004d66
+}
+
+/**//*.boxx3{
+	height: 150px;
+	width: 30%;
+	float: right;
+	border: 1px solid green;
+	background-color: grey;
+}
+*.box5{
+height: 120px;
+border: 1px solid green;	
+}
+.box6{
+	height: 57px;
 	width: 100%;
 	border: 1px solid green;
 }
-.box2{
-height: 200px;
+/*.box2_inner1{
+width: 30%;
 border: 1px solid green;
-}
-.box3{
-height: 150px;
-border: 1px solid green;	
-}
-.box4{
-height: 150px;
-border: 1px solid green;	
-}
-.box5{
-height: 80px;
-border: 1px solid green;	
+float: right;
+height: 200px;	
+background-color: grey;
 }
